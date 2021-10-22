@@ -1,3 +1,9 @@
+Foods:
 Tacos
 Spaghetti
 Fried Fish
+
+Movies:
+Forrest Gump
+Star Wars
+Harry Potter
